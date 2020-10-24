@@ -31,6 +31,18 @@
             android:textColor="@color/white"/>
 
         <TextView
+            android:id="@+id/vidhayak_text_view"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@id/happybirthday_text_view"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:textSize="30sp"
+            android:text="Vidhyak Ji"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@color/white"/>
+
+        <TextView
             android:id="@+id/from_text_view"
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
