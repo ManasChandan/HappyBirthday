@@ -26,7 +26,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginTop="16dp"
             android:textSize="30sp"
-            android:text="HappyBirthday, ChaCha"
+            android:text="HappyBirthday, Cha Cha"
             android:fontFamily="sans-serif-light"
             android:textColor="@color/white"/>
 
